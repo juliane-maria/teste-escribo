@@ -2,7 +2,8 @@
 
 
 
-Para testar esse código em sua máquina, vá até o repositório desejado e digite o código abaixo no seu terminal:  
+<h4 >Para testar esse código em sua máquina, vá até o repositório desejado e digite o código abaixo no seu terminal:</h4>
+
 ``git clone https://github.com/juliane-maria/teste-escribo.git``
 
 <img  src="https://user-images.githubusercontent.com/73200962/184461183-f68c7cc8-9e97-4428-9580-ab4c9d35d3fb.png" width="500">
